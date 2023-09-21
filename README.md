@@ -1,3 +1,1 @@
-"# flask-mnist" 
-"# flask-mnist-app" 
-"# flask-mnist-app" 
+"# aidemy_git" 
